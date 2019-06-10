@@ -7,4 +7,4 @@ In this app you just have to choose between these three moves, and you will see 
 This was my first project in iOS Development using Swift.
 
 
-![](rockPaperScissor.gif)
+#### Click on DEMO.mp4 to download the live preview.
